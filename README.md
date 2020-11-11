@@ -13,8 +13,6 @@ If you are given Permission to showcase our script *Please Give Credit!*
 
 Nothing at the Moment.
 
-That's all thanks for reading! :>
-
 
 --Releases--
 
@@ -23,4 +21,4 @@ Check my Discord server for this:
 https://discord.gg/PESNwcFrnj
 
 
-
+That's all thanks for reading! :>
