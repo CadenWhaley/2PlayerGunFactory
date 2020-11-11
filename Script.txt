@@ -1,0 +1,4 @@
+local Stupid = "Nothing here yet buddy :>"
+print(Stupid)
+
+Console: Nothing here yet buddy :>
