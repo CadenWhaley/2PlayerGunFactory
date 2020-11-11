@@ -16,5 +16,11 @@ Nothing at the Moment.
 That's all thanks for reading! :>
 
 
+--Releases--
+
+Check my Discord server for this:
+
+https://discord.gg/PESNwcFrnj
+
 
 
