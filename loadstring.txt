@@ -26,4 +26,4 @@ That's all thanks for reading! :>
 
 ]])
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CadenWhaley/2PlayerGunFactory/main/Script.txt"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/NJW01Wjw"))()
