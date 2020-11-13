@@ -20,4 +20,4 @@ That's all thanks for reading! :>
 
 ]]--
 
-loadstring(game:GetObjects('rbxassetid://5671578245')[1].Source)()
+loadstring(game:GetObjects('rbxassetid://5948816893')[1].Source)()
